@@ -37,6 +37,5 @@ if nilai >= "65":
     print("kamu lulus")
 elif nilai <= "65":
     print("kamu remedial, tolol")
-elif nilai == "0":
-    print("lu gw DO aja sih")
+
 

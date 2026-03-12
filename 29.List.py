@@ -34,5 +34,7 @@ print(data_list)
 data_list = [ i for i in range(0,10) if i %2 ==0]
 print(data_list)
 
+# ganjil
 data_list = [ i for i in range(0,10) if i %2 !=0]
 print(data_list)
+

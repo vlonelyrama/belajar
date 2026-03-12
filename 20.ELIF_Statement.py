@@ -21,4 +21,4 @@ elif nama=="pinki":
 elif nama=="isak":
     print("dammnn bro, de ilmuwan penemu gravitasi weyasu")
 else:
-    print("lu ga gw kenal, main jauh aja")
+    print("lu ga gw kenal, main jauh aja  ")
